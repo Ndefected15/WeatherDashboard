@@ -4,6 +4,7 @@
 
 .forecast {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .search {
@@ -15,6 +16,7 @@
 .card {
   padding: 10px;
   margin: 10px;
+  width: 150px;
 }
 
 .weather-results {
